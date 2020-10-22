@@ -1,4 +1,4 @@
-# Making calculations on uncertainty and information search over words in English language
+# [Making calculations on uncertainty and information search over words in English language](https://github.com/sabrinaychua/dictionary-info-calculation/blob/master/Making_calculations_on_uncertainty_and_information_search_over_words_in_English_language.ipynb)
 
 **Course**: Computational Cognitive Sciences Spring 2020
 
